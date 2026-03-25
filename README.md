@@ -1,7 +1,7 @@
 # intro
 this is my intro giggles
 <div align="center">
-![](https://komarev.com/ghpvc/?username=avesbell&color=b49cdb&base=1500&label=VISITS)
+![](https://komarev.com/ghpvc/?username=avesbell&color=eedcf4&base=1500&label=VISITS)
 </div>
 <p align="center">
 <img width="980" height="260" src="https://64.media.tumblr.com/1e573edcd1b8b2e8c0594b96e7a68cd0/b8f67d835739f83c-0d/s1280x1920/e62f637d52537d1bbb3971847538cea9a52156ae.pnj">
@@ -31,18 +31,12 @@ ${\textsf{\color{#eedcf4}ANYONE INT!!I'm super friendly, but please refer to my 
 <p align="center">
  <img width="60" height="60" src="https://64.media.tumblr.com/c1d106aa66990072e83f45e628a2e8d1/979b938141ef21a4-1c/s540x810/5530273fc169b6f3a93451c36daf75c6a048a866.pnj"
 </p>
-<p align="center">
-<img width="600" height="500" src="https://files.catbox.moe/8tk0bg.gif">
-</p>　
 
-<div align="center">
-![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=22an7rp7mrtczxx3nxjhbny6a&cover_image=true&theme=novatorem&show_offline=true&background_color=6e5fb4&interchange=false&bar_color=ce96e9&bar_color_cover=false)
-Fav Ships , Ext info , Alters , Agere , yumes , Proship info , Ponies , heehe
 <p align="center"> ${\textsf{\color{#eedcf4}Ty for reading!!! <333}}$
 </p>
 <p align="center">
 <img width="80" height="80" src="https://i.ibb.co/pWRrqfm/IMG-7963.gif">
 </p>
 </div>
-<p align="center"><img width="980" height="260" src="https://64.media.tumblr.com/83836b795da8afeb5b3da27c8cc6f7fa/ec4e0e3064314d61-c4/s2048x3072/3e44f18e80b0bc67242eff5e46907f573baf78c7.pnj">
+<p align="center"><img width="980" height="260" src="https://64.media.tumblr.com/4a4e14408d20f1e5fec170b27ce6d6df/0fb71630eff2cb51-f7/s1280x1920/c4058abb674637c1d0143cafb9a5044cd9624ecc.pnj">
 </p>
